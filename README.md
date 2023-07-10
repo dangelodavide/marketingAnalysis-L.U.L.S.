@@ -1,5 +1,7 @@
-# marketingAnalysis-L.U.L.S. Repository
-
+<h1>
+<img src="https://github.com/dangelodavide/marketingAnalysis-L.U.L.S./assets/123898394/7e41d16f-9c10-488f-8a15-185b0a9a663a" style="width: 50px; height: 50px; vertical-align: middle;"> 
+marketingAnalysis-L.U.L.S. Repository
+</h1>
 This repository contains a market analysis conducted for the social promotion association Laboratorio Urbano Los Santos (L.U.L.S.). The analysis is based on data from official sources, specifically Istat (Italian National Institute of Statistics).
 
 ## Objective
